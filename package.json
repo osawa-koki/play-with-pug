@@ -1,0 +1,9 @@
+{
+  "name": "play-with-pug",
+  "version": "1.0.0",
+  "description": "😗😗😗 Pugを使ってみる！",
+  "repository": "https://github.com/osawa-koki/play-with-pug.git",
+  "author": "osawa-koki <koki@osawa.dev>",
+  "license": "Apache-2.0",
+  "private": false
+}
