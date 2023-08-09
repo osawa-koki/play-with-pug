@@ -6,6 +6,9 @@
   "author": "osawa-koki <koki@osawa.dev>",
   "license": "Apache-2.0",
   "private": false,
+  "scripts": {
+    "dev": "ts-node ./index.ts"
+  },
   "dependencies": {
     "pug": "^3.0.2",
     "ts-node": "^10.9.1"
