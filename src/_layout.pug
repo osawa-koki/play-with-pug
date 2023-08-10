@@ -1,0 +1,13 @@
+doctype html
+html(lang="ja")
+  include _head.pug
+  body
+    main.m-3
+      nav
+        ul.nav.nav-pills
+          li.nav-item
+            a.nav-link(href="./index.html") home
+          li.nav-item
+            a.nav-link(href="./about.html") about
+      block content
+    include _footer.pug
