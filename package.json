@@ -7,7 +7,9 @@
   "license": "Apache-2.0",
   "private": false,
   "scripts": {
-    "dev": "ts-node ./index.ts"
+    "dev": "ts-node ./index.ts",
+    "lint": "eslint . --ext .ts",
+    "lint:fix": "eslint . --ext .ts --fix"
   },
   "dependencies": {
     "pug": "^3.0.2",
